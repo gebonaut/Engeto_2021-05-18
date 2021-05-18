@@ -13,5 +13,6 @@ def print_hi(name):
 if __name__ == '__main__':
     print("Ahoj Světe!")
     print_hi('PyCharm')
+    print("Když uděláš změnu, musíš vybrat soubory, pak Commit se zprávou a pak nahoře tu šipku nahoru doprava 'Push'")
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
